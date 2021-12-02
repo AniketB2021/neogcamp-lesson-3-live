@@ -9,6 +9,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 
 hr{
@@ -100,6 +101,12 @@ hr{
     font-size: 2rem;
     color:var(--dark-gray);
     padding-top: 1rem;
+    text-align: center;
+}
+
+.hero .hero-heading .hero-heading-inverted{
+    color: var(--primary-color);
+    font-weight: bold;
 }
 
 /** Sections**/
